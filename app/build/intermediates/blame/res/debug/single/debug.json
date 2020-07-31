@@ -1,0 +1,338 @@
+[
+    {
+        "merged": "D:\\Android\\Project\\NetDisk\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_search__file.xml.flat",
+        "source": "D:\\Android\\Project\\NetDisk\\app\\src\\main\\res\\layout\\activity_search__file.xml"
+    },
+    {
+        "merged": "D:\\Android\\Project\\NetDisk\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_cloudicon.png.flat",
+        "source": "D:\\Android\\Project\\NetDisk\\app\\src\\main\\res\\drawable-hdpi\\cloudicon.png"
+    },
+    {
+        "merged": "D:\\Android\\Project\\NetDisk\\app\\build\\intermediates\\res\\merged\\debug\\drawable_appicon.png.flat",
+        "source": "D:\\Android\\Project\\NetDisk\\app\\src\\main\\res\\drawable\\appicon.png"
+    },
+    {
+        "merged": "D:\\Android\\Project\\NetDisk\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_register.xml.flat",
+        "source": "D:\\Android\\Project\\NetDisk\\app\\src\\main\\res\\layout\\activity_register.xml"
+    },
+    {
+        "merged": "D:\\Android\\Project\\NetDisk\\app\\build\\intermediates\\res\\merged\\debug\\layout_layout_gridview.xml.flat",
+        "source": "D:\\Android\\Project\\NetDisk\\app\\src\\main\\res\\layout\\layout_gridview.xml"
+    },
+    {
+        "merged": "D:\\Android\\Project\\NetDisk\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_createdir_off.png.flat",
+        "source": "D:\\Android\\Project\\NetDisk\\app\\src\\main\\res\\drawable-hdpi\\createdir_off.png"
+    },
+    {
+        "merged": "D:\\Android\\Project\\NetDisk\\app\\build\\intermediates\\res\\merged\\debug\\drawable_docfile.png.flat",
+        "source": "D:\\Android\\Project\\NetDisk\\app\\src\\main\\res\\drawable\\docfile.png"
+    },
+    {
+        "merged": "D:\\Android\\Project\\NetDisk\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_search_list.xml.flat",
+        "source": "D:\\Android\\Project\\NetDisk\\app\\src\\main\\res\\layout\\activity_search_list.xml"
+    },
+    {
+        "merged": "D:\\Android\\Project\\NetDisk\\app\\build\\intermediates\\res\\merged\\debug\\menu_main.xml.flat",
+        "source": "D:\\Android\\Project\\NetDisk\\app\\src\\main\\res\\menu\\main.xml"
+    },
+    {
+        "merged": "D:\\Android\\Project\\NetDisk\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_vip.png.flat",
+        "source": "D:\\Android\\Project\\NetDisk\\app\\src\\main\\res\\drawable-hdpi\\vip.png"
+    },
+    {
+        "merged": "D:\\Android\\Project\\NetDisk\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_welcome.xml.flat",
+        "source": "D:\\Android\\Project\\NetDisk\\app\\src\\main\\res\\layout\\activity_welcome.xml"
+    },
+    {
+        "merged": "D:\\Android\\Project\\NetDisk\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_login.xml.flat",
+        "source": "D:\\Android\\Project\\NetDisk\\app\\src\\main\\res\\layout\\activity_login.xml"
+    },
+    {
+        "merged": "D:\\Android\\Project\\NetDisk\\app\\build\\intermediates\\res\\merged\\debug\\menu_login.xml.flat",
+        "source": "D:\\Android\\Project\\NetDisk\\app\\src\\main\\res\\menu\\login.xml"
+    },
+    {
+        "merged": "D:\\Android\\Project\\NetDisk\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_transmission.xml.flat",
+        "source": "D:\\Android\\Project\\NetDisk\\app\\src\\main\\res\\layout\\activity_transmission.xml"
+    },
+    {
+        "merged": "D:\\Android\\Project\\NetDisk\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_icon.png.flat",
+        "source": "D:\\Android\\Project\\NetDisk\\app\\src\\main\\res\\drawable-hdpi\\icon.png"
+    },
+    {
+        "merged": "D:\\Android\\Project\\NetDisk\\app\\build\\intermediates\\res\\merged\\debug\\drawable_rarfile.png.flat",
+        "source": "D:\\Android\\Project\\NetDisk\\app\\src\\main\\res\\drawable\\rarfile.png"
+    },
+    {
+        "merged": "D:\\Android\\Project\\NetDisk\\app\\build\\intermediates\\res\\merged\\debug\\menu_pay.xml.flat",
+        "source": "D:\\Android\\Project\\NetDisk\\app\\src\\main\\res\\menu\\pay.xml"
+    },
+    {
+        "merged": "D:\\Android\\Project\\NetDisk\\app\\build\\intermediates\\res\\merged\\debug\\layout_load_listview.xml.flat",
+        "source": "D:\\Android\\Project\\NetDisk\\app\\src\\main\\res\\layout\\load_listview.xml"
+    },
+    {
+        "merged": "D:\\Android\\Project\\NetDisk\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_downloaded.xml.flat",
+        "source": "D:\\Android\\Project\\NetDisk\\app\\src\\main\\res\\layout\\activity_downloaded.xml"
+    },
+    {
+        "merged": "D:\\Android\\Project\\NetDisk\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_mainpage.png.flat",
+        "source": "D:\\Android\\Project\\NetDisk\\app\\src\\main\\res\\drawable-hdpi\\mainpage.png"
+    },
+    {
+        "merged": "D:\\Android\\Project\\NetDisk\\app\\build\\intermediates\\res\\merged\\debug\\menu_register.xml.flat",
+        "source": "D:\\Android\\Project\\NetDisk\\app\\src\\main\\res\\menu\\register.xml"
+    },
+    {
+        "merged": "D:\\Android\\Project\\NetDisk\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_kit_off.png.flat",
+        "source": "D:\\Android\\Project\\NetDisk\\app\\src\\main\\res\\drawable-hdpi\\kit_off.png"
+    },
+    {
+        "merged": "D:\\Android\\Project\\NetDisk\\app\\build\\intermediates\\res\\merged\\debug\\drawable_document.png.flat",
+        "source": "D:\\Android\\Project\\NetDisk\\app\\src\\main\\res\\drawable\\document.png"
+    },
+    {
+        "merged": "D:\\Android\\Project\\NetDisk\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_my_info.xml.flat",
+        "source": "D:\\Android\\Project\\NetDisk\\app\\src\\main\\res\\layout\\activity_my_info.xml"
+    },
+    {
+        "merged": "D:\\Android\\Project\\NetDisk\\app\\build\\intermediates\\res\\merged\\debug\\drawable_translate.png.flat",
+        "source": "D:\\Android\\Project\\NetDisk\\app\\src\\main\\res\\drawable\\translate.png"
+    },
+    {
+        "merged": "D:\\Android\\Project\\NetDisk\\app\\build\\intermediates\\res\\merged\\debug\\menu_search.xml.flat",
+        "source": "D:\\Android\\Project\\NetDisk\\app\\src\\main\\res\\menu\\search.xml"
+    },
+    {
+        "merged": "D:\\Android\\Project\\NetDisk\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_pay.xml.flat",
+        "source": "D:\\Android\\Project\\NetDisk\\app\\src\\main\\res\\layout\\activity_pay.xml"
+    },
+    {
+        "merged": "D:\\Android\\Project\\NetDisk\\app\\build\\intermediates\\res\\merged\\debug\\drawable_search_name.xml.flat",
+        "source": "D:\\Android\\Project\\NetDisk\\app\\src\\main\\res\\drawable\\search_name.xml"
+    },
+    {
+        "merged": "D:\\Android\\Project\\NetDisk\\app\\build\\intermediates\\res\\merged\\debug\\drawable_videofile.png.flat",
+        "source": "D:\\Android\\Project\\NetDisk\\app\\src\\main\\res\\drawable\\videofile.png"
+    },
+    {
+        "merged": "D:\\Android\\Project\\NetDisk\\app\\build\\intermediates\\res\\merged\\debug\\menu_search__file.xml.flat",
+        "source": "D:\\Android\\Project\\NetDisk\\app\\src\\main\\res\\menu\\search__file.xml"
+    },
+    {
+        "merged": "D:\\Android\\Project\\NetDisk\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_search_class.xml.flat",
+        "source": "D:\\Android\\Project\\NetDisk\\app\\src\\main\\res\\layout\\activity_search_class.xml"
+    },
+    {
+        "merged": "D:\\Android\\Project\\NetDisk\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_title_icon.png.flat",
+        "source": "D:\\Android\\Project\\NetDisk\\app\\src\\main\\res\\drawable-hdpi\\title_icon.png"
+    },
+    {
+        "merged": "D:\\Android\\Project\\NetDisk\\app\\build\\intermediates\\res\\merged\\debug\\drawable_folder.png.flat",
+        "source": "D:\\Android\\Project\\NetDisk\\app\\src\\main\\res\\drawable\\folder.png"
+    },
+    {
+        "merged": "D:\\Android\\Project\\NetDisk\\app\\build\\intermediates\\res\\merged\\debug\\menu_search_list.xml.flat",
+        "source": "D:\\Android\\Project\\NetDisk\\app\\src\\main\\res\\menu\\search_list.xml"
+    },
+    {
+        "merged": "D:\\Android\\Project\\NetDisk\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_kit.xml.flat",
+        "source": "D:\\Android\\Project\\NetDisk\\app\\src\\main\\res\\layout\\fragment_kit.xml"
+    },
+    {
+        "merged": "D:\\Android\\Project\\NetDisk\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_mainpage.xml.flat",
+        "source": "D:\\Android\\Project\\NetDisk\\app\\src\\main\\res\\layout\\fragment_mainpage.xml"
+    },
+    {
+        "merged": "D:\\Android\\Project\\NetDisk\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_launcher.png.flat",
+        "source": "D:\\Android\\Project\\NetDisk\\app\\src\\main\\res\\drawable-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\Android\\Project\\NetDisk\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_create.xml.flat",
+        "source": "D:\\Android\\Project\\NetDisk\\app\\src\\main\\res\\layout\\fragment_create.xml"
+    },
+    {
+        "merged": "D:\\Android\\Project\\NetDisk\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_xiala.png.flat",
+        "source": "D:\\Android\\Project\\NetDisk\\app\\src\\main\\res\\drawable-hdpi\\xiala.png"
+    },
+    {
+        "merged": "D:\\Android\\Project\\NetDisk\\app\\build\\intermediates\\res\\merged\\debug\\menu_search_file.xml.flat",
+        "source": "D:\\Android\\Project\\NetDisk\\app\\src\\main\\res\\menu\\search_file.xml"
+    },
+    {
+        "merged": "D:\\Android\\Project\\NetDisk\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_launcher.png.flat",
+        "source": "D:\\Android\\Project\\NetDisk\\app\\src\\main\\res\\drawable-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\Android\\Project\\NetDisk\\app\\build\\intermediates\\res\\merged\\debug\\drawable_zfb_pay.png.flat",
+        "source": "D:\\Android\\Project\\NetDisk\\app\\src\\main\\res\\drawable\\zfb_pay.png"
+    },
+    {
+        "merged": "D:\\Android\\Project\\NetDisk\\app\\build\\intermediates\\res\\merged\\debug\\layout_download_layout.xml.flat",
+        "source": "D:\\Android\\Project\\NetDisk\\app\\src\\main\\res\\layout\\download_layout.xml"
+    },
+    {
+        "merged": "D:\\Android\\Project\\NetDisk\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_returns.png.flat",
+        "source": "D:\\Android\\Project\\NetDisk\\app\\src\\main\\res\\drawable-hdpi\\returns.png"
+    },
+    {
+        "merged": "D:\\Android\\Project\\NetDisk\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_add_file.xml.flat",
+        "source": "D:\\Android\\Project\\NetDisk\\app\\src\\main\\res\\layout\\activity_add_file.xml"
+    },
+    {
+        "merged": "D:\\Android\\Project\\NetDisk\\app\\build\\intermediates\\res\\merged\\debug\\menu_search_class.xml.flat",
+        "source": "D:\\Android\\Project\\NetDisk\\app\\src\\main\\res\\menu\\search_class.xml"
+    },
+    {
+        "merged": "D:\\Android\\Project\\NetDisk\\app\\build\\intermediates\\res\\merged\\debug\\drawable_micfile.png.flat",
+        "source": "D:\\Android\\Project\\NetDisk\\app\\src\\main\\res\\drawable\\micfile.png"
+    },
+    {
+        "merged": "D:\\Android\\Project\\NetDisk\\app\\build\\intermediates\\res\\merged\\debug\\layout_listview_head.xml.flat",
+        "source": "D:\\Android\\Project\\NetDisk\\app\\src\\main\\res\\layout\\listview_head.xml"
+    },
+    {
+        "merged": "D:\\Android\\Project\\NetDisk\\app\\build\\intermediates\\res\\merged\\debug\\drawable_edit_styles.xml.flat",
+        "source": "D:\\Android\\Project\\NetDisk\\app\\src\\main\\res\\drawable\\edit_styles.xml"
+    },
+    {
+        "merged": "D:\\Android\\Project\\NetDisk\\app\\build\\intermediates\\res\\merged\\debug\\menu_forget.xml.flat",
+        "source": "D:\\Android\\Project\\NetDisk\\app\\src\\main\\res\\menu\\forget.xml"
+    },
+    {
+        "merged": "D:\\Android\\Project\\NetDisk\\app\\build\\intermediates\\res\\merged\\debug\\drawable_login_btn.xml.flat",
+        "source": "D:\\Android\\Project\\NetDisk\\app\\src\\main\\res\\drawable\\login_btn.xml"
+    },
+    {
+        "merged": "D:\\Android\\Project\\NetDisk\\app\\build\\intermediates\\res\\merged\\debug\\drawable_folderfile.png.flat",
+        "source": "D:\\Android\\Project\\NetDisk\\app\\src\\main\\res\\drawable\\folderfile.png"
+    },
+    {
+        "merged": "D:\\Android\\Project\\NetDisk\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_main.xml.flat",
+        "source": "D:\\Android\\Project\\NetDisk\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "D:\\Android\\Project\\NetDisk\\app\\build\\intermediates\\res\\merged\\debug\\menu_reset_passwrod.xml.flat",
+        "source": "D:\\Android\\Project\\NetDisk\\app\\src\\main\\res\\menu\\reset_passwrod.xml"
+    },
+    {
+        "merged": "D:\\Android\\Project\\NetDisk\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_search_off.png.flat",
+        "source": "D:\\Android\\Project\\NetDisk\\app\\src\\main\\res\\drawable-hdpi\\search_off.png"
+    },
+    {
+        "merged": "D:\\Android\\Project\\NetDisk\\app\\build\\intermediates\\res\\merged\\debug\\layout_serach_list.xml.flat",
+        "source": "D:\\Android\\Project\\NetDisk\\app\\src\\main\\res\\layout\\serach_list.xml"
+    },
+    {
+        "merged": "D:\\Android\\Project\\NetDisk\\app\\build\\intermediates\\res\\merged\\debug\\menu_welcome.xml.flat",
+        "source": "D:\\Android\\Project\\NetDisk\\app\\src\\main\\res\\menu\\welcome.xml"
+    },
+    {
+        "merged": "D:\\Android\\Project\\NetDisk\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_launcher.png.flat",
+        "source": "D:\\Android\\Project\\NetDisk\\app\\src\\main\\res\\drawable-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\Android\\Project\\NetDisk\\app\\build\\intermediates\\res\\merged\\debug\\menu_downloaded.xml.flat",
+        "source": "D:\\Android\\Project\\NetDisk\\app\\src\\main\\res\\menu\\downloaded.xml"
+    },
+    {
+        "merged": "D:\\Android\\Project\\NetDisk\\app\\build\\intermediates\\res\\merged\\debug\\drawable_qq_pay.png.flat",
+        "source": "D:\\Android\\Project\\NetDisk\\app\\src\\main\\res\\drawable\\qq_pay.png"
+    },
+    {
+        "merged": "D:\\Android\\Project\\NetDisk\\app\\build\\intermediates\\res\\merged\\debug\\menu_add_file.xml.flat",
+        "source": "D:\\Android\\Project\\NetDisk\\app\\src\\main\\res\\menu\\add_file.xml"
+    },
+    {
+        "merged": "D:\\Android\\Project\\NetDisk\\app\\build\\intermediates\\res\\merged\\debug\\menu_rename_file.xml.flat",
+        "source": "D:\\Android\\Project\\NetDisk\\app\\src\\main\\res\\menu\\rename_file.xml"
+    },
+    {
+        "merged": "D:\\Android\\Project\\NetDisk\\app\\build\\intermediates\\res\\merged\\debug\\drawable_welcome.png.flat",
+        "source": "D:\\Android\\Project\\NetDisk\\app\\src\\main\\res\\drawable\\welcome.png"
+    },
+    {
+        "merged": "D:\\Android\\Project\\NetDisk\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_kit.png.flat",
+        "source": "D:\\Android\\Project\\NetDisk\\app\\src\\main\\res\\drawable-hdpi\\kit.png"
+    },
+    {
+        "merged": "D:\\Android\\Project\\NetDisk\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_rename_file.xml.flat",
+        "source": "D:\\Android\\Project\\NetDisk\\app\\src\\main\\res\\layout\\activity_rename_file.xml"
+    },
+    {
+        "merged": "D:\\Android\\Project\\NetDisk\\app\\build\\intermediates\\res\\merged\\debug\\drawable_video.png.flat",
+        "source": "D:\\Android\\Project\\NetDisk\\app\\src\\main\\res\\drawable\\video.png"
+    },
+    {
+        "merged": "D:\\Android\\Project\\NetDisk\\app\\build\\intermediates\\res\\merged\\debug\\menu_transmission.xml.flat",
+        "source": "D:\\Android\\Project\\NetDisk\\app\\src\\main\\res\\menu\\transmission.xml"
+    },
+    {
+        "merged": "D:\\Android\\Project\\NetDisk\\app\\build\\intermediates\\res\\merged\\debug\\drawable_imgfile.png.flat",
+        "source": "D:\\Android\\Project\\NetDisk\\app\\src\\main\\res\\drawable\\imgfile.png"
+    },
+    {
+        "merged": "D:\\Android\\Project\\NetDisk\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_unknownfile.png.flat",
+        "source": "D:\\Android\\Project\\NetDisk\\app\\src\\main\\res\\drawable-hdpi\\unknownfile.png"
+    },
+    {
+        "merged": "D:\\Android\\Project\\NetDisk\\app\\build\\intermediates\\res\\merged\\debug\\layout_upload_layout.xml.flat",
+        "source": "D:\\Android\\Project\\NetDisk\\app\\src\\main\\res\\layout\\upload_layout.xml"
+    },
+    {
+        "merged": "D:\\Android\\Project\\NetDisk\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_createdir.png.flat",
+        "source": "D:\\Android\\Project\\NetDisk\\app\\src\\main\\res\\drawable-hdpi\\createdir.png"
+    },
+    {
+        "merged": "D:\\Android\\Project\\NetDisk\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_launcher.png.flat",
+        "source": "D:\\Android\\Project\\NetDisk\\app\\src\\main\\res\\drawable-xxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\Android\\Project\\NetDisk\\app\\build\\intermediates\\res\\merged\\debug\\drawable_weixin_pay.png.flat",
+        "source": "D:\\Android\\Project\\NetDisk\\app\\src\\main\\res\\drawable\\weixin_pay.png"
+    },
+    {
+        "merged": "D:\\Android\\Project\\NetDisk\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_search.png.flat",
+        "source": "D:\\Android\\Project\\NetDisk\\app\\src\\main\\res\\drawable-hdpi\\search.png"
+    },
+    {
+        "merged": "D:\\Android\\Project\\NetDisk\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_addss.png.flat",
+        "source": "D:\\Android\\Project\\NetDisk\\app\\src\\main\\res\\drawable-hdpi\\addss.png"
+    },
+    {
+        "merged": "D:\\Android\\Project\\NetDisk\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_downloaded.png.flat",
+        "source": "D:\\Android\\Project\\NetDisk\\app\\src\\main\\res\\drawable-hdpi\\downloaded.png"
+    },
+    {
+        "merged": "D:\\Android\\Project\\NetDisk\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_men.png.flat",
+        "source": "D:\\Android\\Project\\NetDisk\\app\\src\\main\\res\\drawable-hdpi\\men.png"
+    },
+    {
+        "merged": "D:\\Android\\Project\\NetDisk\\app\\build\\intermediates\\res\\merged\\debug\\drawable_image.png.flat",
+        "source": "D:\\Android\\Project\\NetDisk\\app\\src\\main\\res\\drawable\\image.png"
+    },
+    {
+        "merged": "D:\\Android\\Project\\NetDisk\\app\\build\\intermediates\\res\\merged\\debug\\layout_layout_listview.xml.flat",
+        "source": "D:\\Android\\Project\\NetDisk\\app\\src\\main\\res\\layout\\layout_listview.xml"
+    },
+    {
+        "merged": "D:\\Android\\Project\\NetDisk\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_search.xml.flat",
+        "source": "D:\\Android\\Project\\NetDisk\\app\\src\\main\\res\\layout\\fragment_search.xml"
+    },
+    {
+        "merged": "D:\\Android\\Project\\NetDisk\\app\\build\\intermediates\\res\\merged\\debug\\drawable_music.png.flat",
+        "source": "D:\\Android\\Project\\NetDisk\\app\\src\\main\\res\\drawable\\music.png"
+    },
+    {
+        "merged": "D:\\Android\\Project\\NetDisk\\app\\build\\intermediates\\res\\merged\\debug\\layout_search_listview_item.xml.flat",
+        "source": "D:\\Android\\Project\\NetDisk\\app\\src\\main\\res\\layout\\search_listview_item.xml"
+    },
+    {
+        "merged": "D:\\Android\\Project\\NetDisk\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_mainpage_off.png.flat",
+        "source": "D:\\Android\\Project\\NetDisk\\app\\src\\main\\res\\drawable-hdpi\\mainpage_off.png"
+    },
+    {
+        "merged": "D:\\Android\\Project\\NetDisk\\app\\build\\intermediates\\res\\merged\\debug\\menu_my_info.xml.flat",
+        "source": "D:\\Android\\Project\\NetDisk\\app\\src\\main\\res\\menu\\my_info.xml"
+    }
+]

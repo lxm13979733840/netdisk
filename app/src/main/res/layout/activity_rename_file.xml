@@ -1,0 +1,43 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+<RelativeLayout style="@style/app_title" >
+
+        <ImageView
+            android:id="@+id/renamefile_title_icon"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerVertical="true"
+            android:layout_marginLeft="5dp"
+            android:scaleType="centerInside"
+            android:src="@drawable/returns" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerVertical="true"
+            android:layout_marginLeft="5dp"
+            android:layout_toRightOf="@+id/renamefile_title_icon"
+            android:text="@string/rename_file_new_name"
+            android:textColor="@color/white" />
+    </RelativeLayout>
+    <EditText
+        android:layout_centerInParent="true"
+        android:id="@+id/renamefile_newname_ed"
+        android:layout_width="200dp"
+        android:layout_height="40dp"
+        android:hint="@string/rename_file_new_name"
+        android:gravity="center"
+        android:background="@drawable/edit_styles"/>
+    <Button
+        android:id="@+id/renamefile_newname_btn"
+        android:layout_width="200dp"
+        android:layout_height="40dp"
+        android:layout_below="@+id/renamefile_newname_ed"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="20dp"
+        android:text="@string/search_class_btn"
+        android:background="@drawable/login_btn"/>
+
+</RelativeLayout>

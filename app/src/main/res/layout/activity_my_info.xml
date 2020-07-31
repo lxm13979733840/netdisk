@@ -1,0 +1,126 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical">
+    <RelativeLayout
+        android:id="@+id/myinfo_title"
+        style="@style/app_title" >
+
+        <ImageView
+            android:id="@+id/myinfo_title_icon"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerVertical="true"
+            android:layout_marginLeft="5dp"
+            android:scaleType="centerInside"
+            android:src="@drawable/returns" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerVertical="true"
+            android:layout_marginLeft="5dp"
+            android:layout_toRightOf="@+id/myinfo_title_icon"
+            android:text="@string/my_info"
+            android:textColor="@color/white" />
+    </RelativeLayout>
+<RelativeLayout
+    android:layout_marginTop="10dp"
+    android:id="@+id/username_rl"
+    android:layout_width="match_parent"
+    android:layout_height="60dp"
+    android:gravity="center_vertical"
+    android:background="@color/white"
+    android:paddingLeft="5dp"
+    android:paddingRight="5dp"
+    >
+    <TextView 
+        android:gravity="center_vertical"
+        android:layout_width="wrap_content"
+        android:layout_height="match_parent"
+        android:text="@string/my_info_username"/>
+    <TextView
+        android:gravity="center_vertical"
+        android:id="@+id/my_info_username"
+        android:layout_width="wrap_content"
+        android:layout_height="match_parent"
+        android:layout_alignParentRight="true"/>
+</RelativeLayout>
+<RelativeLayout
+    android:layout_marginTop="10dp"
+    android:id="@+id/nick_rl"
+    android:layout_width="match_parent"
+    android:layout_height="60dp"
+    android:gravity="center_vertical"
+    android:background="@color/white"
+    android:paddingLeft="5dp"
+    android:paddingRight="5dp"
+    >
+    <TextView 
+        android:gravity="center_vertical"
+        android:layout_width="wrap_content"
+        android:layout_height="match_parent"
+        android:text="@string/my_info_nick"/>
+    <EditText
+        android:gravity="center_vertical"
+        android:id="@+id/my_info_nick"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:hint="@string/default_values"
+        android:layout_centerVertical="true"
+        android:background="@null"
+        android:layout_alignParentRight="true"/>
+</RelativeLayout>
+<RelativeLayout
+    android:layout_marginTop="10dp"
+    android:id="@+id/sex_rl"
+    android:layout_width="match_parent"
+    android:layout_height="60dp"
+    android:gravity="center_vertical"
+    android:background="@color/white"
+    android:paddingLeft="5dp"
+    android:paddingRight="5dp"
+    >
+    <TextView 
+        android:gravity="center_vertical"
+        android:layout_width="wrap_content"
+        android:layout_height="match_parent"
+        android:text="@string/my_info_sex"/>
+    <RadioGroup 
+        android:id="@+id/sex"
+        android:layout_width="wrap_content"
+        android:layout_height="match_parent"
+        android:layout_centerInParent="true"
+        android:gravity="center_vertical"
+        android:orientation="horizontal">
+        <RadioButton 
+            android:id="@+id/girl"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/girl"/>
+        <RadioButton 
+            android:id="@+id/boy"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/boy"/>
+        
+    </RadioGroup>
+    <TextView
+        android:gravity="center_vertical"
+        android:id="@+id/my_info_sex"
+        android:layout_width="wrap_content"
+        android:layout_height="match_parent"
+        android:hint="@string/default_values"
+        android:layout_alignParentRight="true"/>
+</RelativeLayout>
+<Button 
+    android:id="@+id/my_info_btn"
+    android:layout_width="match_parent"
+    android:layout_height="45dp"
+   	android:layout_marginLeft="5dp"
+   	android:layout_marginRight="5dp"
+    android:text="@string/search_class_btn"
+    android:background="@drawable/login_btn"
+    android:layout_marginTop="50dp"/>
+</LinearLayout>

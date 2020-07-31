@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.wuming.netdisk"
+    android:versionCode="1"
+    android:versionName="1.0" >
+
+    <uses-sdk
+        android:minSdkVersion="14"
+        android:targetSdkVersion="29" />
+
+    <uses-permission android:name="android.permission.INTERNET" />
+    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+    <uses-permission android:name="android.permission.MOUNT_UNMOUNT_FILESYSTEMS" />
+
+    <application
+        android:allowBackup="true"
+        android:debuggable="true"
+        android:icon="@drawable/appicon"
+        android:label="@string/app_name"
+        android:theme="@style/AppTheme" >
+        <activity
+            android:name="com.wuming.netdisk.MainActivity"
+            android:label="@string/app_name"
+            android:windowSoftInputMode="stateUnspecified|adjustPan" >
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name="com.wuming.netdisk.WelcomeActivity"
+            android:label="@string/title_activity_welcome" >
+        </activity>
+        <activity
+            android:name="com.wuming.netdisk.LoginActivity"
+            android:label="@string/title_activity_login" >
+        </activity>
+        <activity
+            android:name="com.wuming.netdisk.RegisterActivity"
+            android:label="@string/title_activity_register" >
+        </activity>
+        <activity
+            android:name="com.wuming.netdisk.Search_classActivity"
+            android:label="@string/title_activity_search_class"
+            android:theme="@android:style/Theme.Translucent.NoTitleBar" >
+        </activity>
+        <activity
+            android:name="com.wuming.netdisk.Search_listActivity"
+            android:label="@string/title_activity_search_list" >
+        </activity>
+        <activity
+            android:name="com.wuming.netdisk.Search_FileActivity"
+            android:label="@string/title_activity_search__file"
+            android:theme="@android:style/Theme.Dialog" >
+        </activity>
+        <activity
+            android:name="com.wuming.netdisk.RenameFileActivity"
+            android:label="@string/title_activity_rename_file" >
+        </activity>
+
+        <service android:name="com.wuming.service.Http_service" >
+        </service>
+
+        <activity
+            android:name="com.wuming.netdisk.MyInfoActivity"
+            android:label="@string/title_activity_my_info" >
+        </activity>
+        <activity
+            android:name="com.wuming.netdisk.AddFileActivity"
+            android:label="@string/title_activity_add_file" >
+        </activity>
+        <activity
+            android:name="com.wuming.netdisk.PayActivity"
+            android:label="@string/title_activity_pay" >
+        </activity>
+        <activity
+            android:name="com.wuming.netdisk.TransmissionActivity"
+            android:configChanges="orientation|keyboardHidden"
+            android:label="@string/title_activity_transmission" >
+        </activity>
+        <activity
+            android:name="com.wuming.netdisk.DownloadedActivity"
+            android:label="@string/title_activity_downloaded" >
+        </activity>
+    </application>
+
+</manifest>

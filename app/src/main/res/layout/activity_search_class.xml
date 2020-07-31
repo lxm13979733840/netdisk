@@ -1,0 +1,27 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/search_class_rl"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:gravity="center"
+    android:background="@color/login_bg"
+    >
+    <EditText 
+        android:id="@+id/search_class"
+        android:layout_width="200dp"
+        android:layout_height="40dp"
+        android:background="@drawable/search_name"
+        android:gravity="center"
+        android:maxLength="20"
+        android:inputType="text"
+        android:hint="@string/search_name"/>
+	<Button 
+	    android:id="@+id/search_btn"
+	    android:layout_width="200dp"
+	    android:layout_height="40dp"
+	    android:background="@drawable/login_btn"
+	    android:layout_marginTop="10dp"
+	    android:text="@string/search_class_btn"
+	    android:layout_below="@+id/search_class"/>  
+
+</RelativeLayout>

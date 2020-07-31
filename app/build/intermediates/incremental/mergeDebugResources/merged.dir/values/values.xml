@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#000</color>
+    <color name="blue">#01b7fa</color>
+    <color name="blue_on">#1ba7da</color>
+    <color name="gray">#33475f</color>
+    <color name="login_bg">#1f000000</color>
+    <color name="main_bottom">#eeeeee</color>
+    <color name="noselect_text">#999998</color>
+    <color name="red">#f00</color>
+    <color name="white">#fff</color>
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+    <dimen name="serach_list_item_size">10sp</dimen>
+    <string name="action_settings">Settings</string>
+    <string name="app_name">云盘</string>
+    <string name="bottom_create">新建</string>
+    <string name="bottom_kit">工具箱</string>
+    <string name="bottom_mainPage">主页</string>
+    <string name="bottom_search">搜索</string>
+    <string name="boy">男</string>
+    <string name="create_btn">新建文件夹</string>
+    <string name="create_file">FileName</string>
+    <string name="default_values">未设置</string>
+    <string name="downloaded_">已下载</string>
+    <string name="exit">退    出</string>
+    <string name="girl">女</string>
+    <string name="head_title">下拉可以刷新</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="kit_btn">工具箱</string>
+    <string name="login_btn">登录</string>
+    <string name="login_password">请输入密码</string>
+    <string name="login_register">免费注册</string>
+    <string name="login_shuxian">丨</string>
+    <string name="login_user">请输入用户名</string>
+    <string name="mainpage_btn">返回上一页</string>
+    <string name="my_info">我的信息</string>
+    <string name="my_info_nick">昵称</string>
+    <string name="my_info_sex">性别</string>
+    <string name="my_info_username">账户</string>
+    <string name="pay_btn">超级用户</string>
+    <string name="pay_qq">qq支付</string>
+    <string name="pay_weixin">微信支付</string>
+    <string name="pay_yes_vip">你已加入我们的超级用户计划O(∩_∩)O。</string>
+    <string name="pay_zfb">支付宝支付</string>
+    <string name="register_btn">注册</string>
+    <string name="register_password">请再次输入密码</string>
+    <string name="rename_file_new_name">NewName</string>
+    <string name="search_btn">搜索</string>
+    <string name="search_class_btn">确定</string>
+    <string name="search_list">搜索结果</string>
+    <string name="search_name">请输入搜索的文件名</string>
+    <string name="title_activity_add_file">AddFileActivity</string>
+    <string name="title_activity_downloaded">DownloadedActivity</string>
+    <string name="title_activity_forget">ForgetActivity</string>
+    <string name="title_activity_login">LoginActivity</string>
+    <string name="title_activity_my_info">MyInfoActivity</string>
+    <string name="title_activity_pay">PayActivity</string>
+    <string name="title_activity_register">RegisterActivity</string>
+    <string name="title_activity_rename_file">RenameFileActivity</string>
+    <string name="title_activity_reset_passwrod">ResetPasswrodActivity</string>
+    <string name="title_activity_search">SearchActivity</string>
+    <string name="title_activity_search__file">Search_FileActivity</string>
+    <string name="title_activity_search_class">Search_classActivity</string>
+    <string name="title_activity_search_file">Search_fileActivity</string>
+    <string name="title_activity_search_list">Search_listActivity</string>
+    <string name="title_activity_transmission">TransmissionActivity</string>
+    <string name="title_activity_welcome">酷云盘</string>
+    <string name="transmssion_btn">传输列表</string>
+    <string name="transmssion_btn_download">正在下载</string>
+    <string name="transmssion_btn_upload">正在上传</string>
+    <style name="AppBaseTheme" parent="android:Theme.Light">
+        <!--
+            Theme customizations available in newer API levels can go in
+            res/values-vXX/styles.xml, while customizations related to
+            backward-compatibility can go here.
+        -->
+    </style>
+    <style name="AppTheme" parent="AppBaseTheme">
+        <!-- All customizations that are NOT specific to a particular API-level can go here. -->
+    </style>
+    <style name="app_title">
+        <item name="android:background">@color/black</item>
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:layout_height">40dp</item>
+    </style>
+</resources>

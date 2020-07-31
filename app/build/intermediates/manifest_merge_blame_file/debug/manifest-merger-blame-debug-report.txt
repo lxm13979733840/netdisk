@@ -1,0 +1,151 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="com.wuming.netdisk"
+4    android:versionCode="1"
+5    android:versionName="1.0" >
+6
+7    <uses-sdk
+8        android:minSdkVersion="14"
+8-->D:\Android\Project\NetDisk\app\src\main\AndroidManifest.xml
+9        android:targetSdkVersion="29" />
+9-->D:\Android\Project\NetDisk\app\src\main\AndroidManifest.xml
+10
+11    <uses-permission android:name="android.permission.INTERNET" />
+11-->D:\Android\Project\NetDisk\app\src\main\AndroidManifest.xml:9:5-67
+11-->D:\Android\Project\NetDisk\app\src\main\AndroidManifest.xml:9:22-64
+12    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+12-->D:\Android\Project\NetDisk\app\src\main\AndroidManifest.xml:10:5-81
+12-->D:\Android\Project\NetDisk\app\src\main\AndroidManifest.xml:10:22-78
+13    <uses-permission android:name="android.permission.MOUNT_UNMOUNT_FILESYSTEMS" />
+13-->D:\Android\Project\NetDisk\app\src\main\AndroidManifest.xml:11:5-12:47
+13-->D:\Android\Project\NetDisk\app\src\main\AndroidManifest.xml:11:22-81
+14
+15    <application
+15-->D:\Android\Project\NetDisk\app\src\main\AndroidManifest.xml:14:5-85:19
+16        android:allowBackup="true"
+16-->D:\Android\Project\NetDisk\app\src\main\AndroidManifest.xml:15:9-35
+17        android:debuggable="true"
+18        android:icon="@drawable/appicon"
+18-->D:\Android\Project\NetDisk\app\src\main\AndroidManifest.xml:16:9-41
+19        android:label="@string/app_name"
+19-->D:\Android\Project\NetDisk\app\src\main\AndroidManifest.xml:17:9-41
+20        android:theme="@style/AppTheme" >
+20-->D:\Android\Project\NetDisk\app\src\main\AndroidManifest.xml:18:9-40
+21        <activity
+21-->D:\Android\Project\NetDisk\app\src\main\AndroidManifest.xml:19:9-28:20
+22            android:name="com.wuming.netdisk.MainActivity"
+22-->D:\Android\Project\NetDisk\app\src\main\AndroidManifest.xml:20:13-59
+23            android:label="@string/app_name"
+23-->D:\Android\Project\NetDisk\app\src\main\AndroidManifest.xml:21:13-45
+24            android:windowSoftInputMode="stateUnspecified|adjustPan" >
+24-->D:\Android\Project\NetDisk\app\src\main\AndroidManifest.xml:22:13-69
+25            <intent-filter>
+25-->D:\Android\Project\NetDisk\app\src\main\AndroidManifest.xml:23:13-27:25
+26                <action android:name="android.intent.action.MAIN" />
+26-->D:\Android\Project\NetDisk\app\src\main\AndroidManifest.xml:24:13-65
+26-->D:\Android\Project\NetDisk\app\src\main\AndroidManifest.xml:24:21-62
+27
+28                <category android:name="android.intent.category.LAUNCHER" />
+28-->D:\Android\Project\NetDisk\app\src\main\AndroidManifest.xml:26:13-73
+28-->D:\Android\Project\NetDisk\app\src\main\AndroidManifest.xml:26:23-70
+29            </intent-filter>
+30        </activity>
+31        <activity
+31-->D:\Android\Project\NetDisk\app\src\main\AndroidManifest.xml:29:9-33:20
+32            android:name="com.wuming.netdisk.WelcomeActivity"
+32-->D:\Android\Project\NetDisk\app\src\main\AndroidManifest.xml:30:13-62
+33            android:label="@string/title_activity_welcome" >
+33-->D:\Android\Project\NetDisk\app\src\main\AndroidManifest.xml:31:13-59
+34        </activity>
+35        <activity
+35-->D:\Android\Project\NetDisk\app\src\main\AndroidManifest.xml:34:9-37:20
+36            android:name="com.wuming.netdisk.LoginActivity"
+36-->D:\Android\Project\NetDisk\app\src\main\AndroidManifest.xml:35:13-60
+37            android:label="@string/title_activity_login" >
+37-->D:\Android\Project\NetDisk\app\src\main\AndroidManifest.xml:36:13-57
+38        </activity>
+39        <activity
+39-->D:\Android\Project\NetDisk\app\src\main\AndroidManifest.xml:38:9-41:20
+40            android:name="com.wuming.netdisk.RegisterActivity"
+40-->D:\Android\Project\NetDisk\app\src\main\AndroidManifest.xml:39:13-63
+41            android:label="@string/title_activity_register" >
+41-->D:\Android\Project\NetDisk\app\src\main\AndroidManifest.xml:40:13-60
+42        </activity>
+43        <activity
+43-->D:\Android\Project\NetDisk\app\src\main\AndroidManifest.xml:42:9-46:20
+44            android:name="com.wuming.netdisk.Search_classActivity"
+44-->D:\Android\Project\NetDisk\app\src\main\AndroidManifest.xml:43:13-67
+45            android:label="@string/title_activity_search_class"
+45-->D:\Android\Project\NetDisk\app\src\main\AndroidManifest.xml:44:13-64
+46            android:theme="@android:style/Theme.Translucent.NoTitleBar" >
+46-->D:\Android\Project\NetDisk\app\src\main\AndroidManifest.xml:45:13-72
+47        </activity>
+48        <activity
+48-->D:\Android\Project\NetDisk\app\src\main\AndroidManifest.xml:47:9-50:20
+49            android:name="com.wuming.netdisk.Search_listActivity"
+49-->D:\Android\Project\NetDisk\app\src\main\AndroidManifest.xml:48:13-66
+50            android:label="@string/title_activity_search_list" >
+50-->D:\Android\Project\NetDisk\app\src\main\AndroidManifest.xml:49:13-63
+51        </activity>
+52        <activity
+52-->D:\Android\Project\NetDisk\app\src\main\AndroidManifest.xml:51:9-55:20
+53            android:name="com.wuming.netdisk.Search_FileActivity"
+53-->D:\Android\Project\NetDisk\app\src\main\AndroidManifest.xml:52:13-66
+54            android:label="@string/title_activity_search__file"
+54-->D:\Android\Project\NetDisk\app\src\main\AndroidManifest.xml:53:13-64
+55            android:theme="@android:style/Theme.Dialog" >
+55-->D:\Android\Project\NetDisk\app\src\main\AndroidManifest.xml:54:13-56
+56        </activity>
+57        <activity
+57-->D:\Android\Project\NetDisk\app\src\main\AndroidManifest.xml:56:9-59:20
+58            android:name="com.wuming.netdisk.RenameFileActivity"
+58-->D:\Android\Project\NetDisk\app\src\main\AndroidManifest.xml:57:13-65
+59            android:label="@string/title_activity_rename_file" >
+59-->D:\Android\Project\NetDisk\app\src\main\AndroidManifest.xml:58:13-63
+60        </activity>
+61
+62        <service android:name="com.wuming.service.Http_service" >
+62-->D:\Android\Project\NetDisk\app\src\main\AndroidManifest.xml:61:9-62:19
+62-->D:\Android\Project\NetDisk\app\src\main\AndroidManifest.xml:61:18-64
+63        </service>
+64
+65        <activity
+65-->D:\Android\Project\NetDisk\app\src\main\AndroidManifest.xml:64:9-67:20
+66            android:name="com.wuming.netdisk.MyInfoActivity"
+66-->D:\Android\Project\NetDisk\app\src\main\AndroidManifest.xml:65:13-61
+67            android:label="@string/title_activity_my_info" >
+67-->D:\Android\Project\NetDisk\app\src\main\AndroidManifest.xml:66:13-59
+68        </activity>
+69        <activity
+69-->D:\Android\Project\NetDisk\app\src\main\AndroidManifest.xml:68:9-71:20
+70            android:name="com.wuming.netdisk.AddFileActivity"
+70-->D:\Android\Project\NetDisk\app\src\main\AndroidManifest.xml:69:13-62
+71            android:label="@string/title_activity_add_file" >
+71-->D:\Android\Project\NetDisk\app\src\main\AndroidManifest.xml:70:13-60
+72        </activity>
+73        <activity
+73-->D:\Android\Project\NetDisk\app\src\main\AndroidManifest.xml:72:9-75:20
+74            android:name="com.wuming.netdisk.PayActivity"
+74-->D:\Android\Project\NetDisk\app\src\main\AndroidManifest.xml:73:13-58
+75            android:label="@string/title_activity_pay" >
+75-->D:\Android\Project\NetDisk\app\src\main\AndroidManifest.xml:74:13-55
+76        </activity>
+77        <activity
+77-->D:\Android\Project\NetDisk\app\src\main\AndroidManifest.xml:76:9-80:20
+78            android:name="com.wuming.netdisk.TransmissionActivity"
+78-->D:\Android\Project\NetDisk\app\src\main\AndroidManifest.xml:77:13-67
+79            android:configChanges="orientation|keyboardHidden"
+79-->D:\Android\Project\NetDisk\app\src\main\AndroidManifest.xml:78:13-63
+80            android:label="@string/title_activity_transmission" >
+80-->D:\Android\Project\NetDisk\app\src\main\AndroidManifest.xml:79:13-64
+81        </activity>
+82        <activity
+82-->D:\Android\Project\NetDisk\app\src\main\AndroidManifest.xml:81:9-84:20
+83            android:name="com.wuming.netdisk.DownloadedActivity"
+83-->D:\Android\Project\NetDisk\app\src\main\AndroidManifest.xml:82:13-65
+84            android:label="@string/title_activity_downloaded" >
+84-->D:\Android\Project\NetDisk\app\src\main\AndroidManifest.xml:83:13-62
+85        </activity>
+86    </application>
+87
+88</manifest>

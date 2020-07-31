@@ -1,0 +1,92 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent" >
+<RelativeLayout
+        android:id="@+id/pay_title"
+        style="@style/app_title" >
+
+        <ImageView
+            android:id="@+id/pay_title_icon"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerVertical="true"
+            android:layout_marginLeft="5dp"
+            android:scaleType="centerInside"
+            android:src="@drawable/returns" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerVertical="true"
+            android:layout_marginLeft="5dp"
+            android:layout_toRightOf="@+id/pay_title_icon"
+            android:text="@string/pay_btn"
+            android:textColor="@color/white" />
+    </RelativeLayout>
+    <TextView 
+        android:id="@+id/pay_yes_vip"
+        android:layout_centerInParent="true"
+        android:layout_width="wrap_content"
+        android:textSize="20sp"
+        android:gravity="center"
+        android:visibility="gone"
+        android:layout_height="wrap_content"
+        android:text="@string/pay_yes_vip"/>
+    <LinearLayout 
+        android:id="@+id/pay_no_vip"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_centerInParent="true"
+        android:visibility="gone"
+        android:orientation="vertical">
+      <LinearLayout 
+          android:gravity="center"
+          android:layout_width="wrap_content"
+          android:layout_height="wrap_content"
+          android:orientation="vertical">
+          <TextView 
+             android:layout_width="wrap_content"
+             android:layout_height="wrap_content"
+             android:text="@string/pay_qq"/>
+          <ImageView
+              android:layout_marginTop="10dp"
+              android:layout_width="100dp"
+              android:layout_height="100dp"
+              android:scaleType="centerInside"
+              android:src="@drawable/qq_pay"/>
+      </LinearLayout> 
+       <LinearLayout 
+          android:gravity="center"
+          android:layout_width="wrap_content"
+          android:layout_height="wrap_content"
+          android:orientation="vertical">
+          <TextView 
+             android:layout_width="wrap_content"
+             android:layout_height="wrap_content"
+             android:text="@string/pay_weixin"/>
+          <ImageView
+              android:layout_marginTop="10dp"
+              android:layout_width="100dp"
+              android:layout_height="100dp"
+              android:scaleType="centerInside"
+              android:src="@drawable/weixin_pay"/>
+      </LinearLayout>  
+       <LinearLayout 
+          android:gravity="center"
+          android:layout_width="wrap_content"
+          android:layout_height="wrap_content"
+          android:orientation="vertical">
+          <TextView 
+             android:layout_width="wrap_content"
+             android:layout_height="wrap_content"
+             android:text="@string/pay_zfb"/>
+          <ImageView
+              android:layout_marginTop="10dp"
+              android:layout_width="100dp"
+              android:layout_height="100dp"
+              android:scaleType="centerInside"
+              android:src="@drawable/zfb_pay"/>
+      </LinearLayout>   
+    </LinearLayout>
+</RelativeLayout>

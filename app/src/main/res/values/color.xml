@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="gray">#33475f</color>
+    <color name="black">#000</color>
+    <color name="main_bottom">#eeeeee</color>
+    <color name="white">#fff</color>
+    <color name="blue">#01b7fa</color>
+    <color name="blue_on">#1ba7da</color>
+    <color name="login_bg">#1f000000</color>
+    <color name="noselect_text">#999998</color>
+    <color name="red">#f00</color>
+</resources>

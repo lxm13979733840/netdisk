@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical" >
+    <RelativeLayout
+        android:id="@+id/mainpage_title"
+        style="@style/app_title" >
+
+        <ImageView
+            android:id="@+id/mainpage_title_icon"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerVertical="true"
+            android:layout_marginLeft="5dp"
+            android:scaleType="centerInside"
+            android:src="@drawable/title_icon" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerVertical="true"
+            android:layout_marginLeft="5dp"
+            android:layout_toRightOf="@+id/mainpage_title_icon"
+            android:text="@string/app_name"
+            android:textColor="@color/white" />
+    </RelativeLayout>
+    <Button 
+        android:id="@+id/mainpage_btn"
+        android:layout_width="match_parent"
+        android:layout_height="40dp"
+        android:layout_alignParentBottom="true"
+        android:background="@drawable/login_btn"
+        android:text="@string/mainpage_btn"/>
+	 <ListView 
+        android:id="@+id/mainpage_listview"
+        android:layout_below="@+id/mainpage_title"
+        android:layout_marginTop="2dp"
+        android:layout_above="@+id/mainpage_btn"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        ></ListView>
+</RelativeLayout>
