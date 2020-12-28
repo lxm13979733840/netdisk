@@ -3,7 +3,7 @@ package com.wuming.http;
 import java.security.MessageDigest;
 /**
  * 密码的加密类
- * @author 吴铭
+ * @author lxm
  *
  */
 public class Encrypt {
