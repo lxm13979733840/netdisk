@@ -24,7 +24,7 @@ import cz.msebera.android.httpclient.Header;
 
 /**
  * http连接的辅助类
- * @author 吴铭
+ * @author lxm
  */
 public class HttpUtils {
 	public static final String BASE_URL = "http://192.168.56.1:8080/NetDisk/servlet/"; // 连接服务器的基类地址
