@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/NetDisk.iml" filepath="$PROJECT_DIR$/.idea/modules/NetDisk.iml" group="NetDisk" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/app.iml" group="NetDisk/app" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/app.iml" group="netdisk/app" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/netdisk.iml" filepath="$PROJECT_DIR$/.idea/modules/netdisk.iml" group="netdisk" />
     </modules>
   </component>
 </project>
